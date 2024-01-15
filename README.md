@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Esparza Rodríguez</h1>
 <h3 align="center">Estudiante en Facultad de Ingeniería de la UNAM</h3>
+<img align="right" alt="coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmw4y58i658981.gif%3Fwidth%3D750%26auto%3Dwebp%26s%3Dd1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
 
 - 🎒 I am currently studying at UNAM **UNAM**
 
