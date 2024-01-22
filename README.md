@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Diego Esparza Rodríguez</h1>
 <h3 align="center">Student at UNAM Faculty of Engineering</h3>
 
-- 🎒 I am currently studying at UNAM **UNAM**
+- 🎒 I am currently studying at  **UNAM**
 
-- 🌱 I’m currently learning **Bootstrap, Typescript, Angular, Git**
+- 🌱 I’m currently learning **Bootstrap, Reactjs, API, Git**
 
 - 💬 Ask me about **HTML, CSS, Javascript, C, Python**
 
