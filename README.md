@@ -4,10 +4,7 @@
   
 ### 🎓 Desarrollador Web Full Stack
   
-<a href="https://github.com/diegoesr" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/esparza-rodríguez-diego-970a19210/" target="_blank">
+<a href="https://www.linkedin.com/in/diego-esparza-rodriguez-970a19210/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/diego_vstheworld" target="_blank">
