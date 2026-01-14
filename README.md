@@ -3,6 +3,14 @@
 <h3 align="center">🎓 Desarrollador Web Full Stack | Egresado de la Facultad de Ingeniería UNAM</h3>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+🧑‍🎓!+;+Desarrollador+Full+Stack💻;" alt="Typing animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoesr&theme=react-dark&bg_color=0d1117&color=ffffff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
