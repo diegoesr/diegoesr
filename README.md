@@ -1,99 +1,79 @@
-# 👋 ¡Hola! Soy Diego Esparza Rodríguez
+<h1 align="center">👋 ¡Hola! Soy Diego Esparza Rodríguez</h1>
+
+<h3 align="center">🎓 Desarrollador Web Full Stack | Egresado de la Facultad de Ingeniería UNAM</h3>
 
 <div align="center">
-  
-### 🎓 Desarrollador Web Full Stack
-  
-<a href="https://www.linkedin.com/in/diego-esparza-rodriguez-970a19210/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/diego_vstheworld" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:diego_esparza02@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+</div>
 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diego-esparza-rodriguez-970a19210/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/diego_vstheworld" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:diego_esparza02@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  </a>
 </div>
 
 ---
 
 ## 💻 Sobre Mí
 
-Soy egresado de la **Facultad de Ingeniería de la UNAM** y desarrollador web apasionado por crear soluciones digitales innovadoras y funcionales. Me especializo en el desarrollo de aplicaciones web modernas con un enfoque en la experiencia del usuario y el rendimiento.
+Desarrollador web Full Stack apasionado por crear soluciones digitales innovadoras y funcionales. Egresado de la **Facultad de Ingeniería de la UNAM**, me especializo en el desarrollo de aplicaciones web modernas con un enfoque en la experiencia del usuario, rendimiento y código limpio.
 
-- 🔭 Trabajando en proyectos web con **PHP**, **JavaScript**, **TypeScript**, **MySQL** y **React**
-- 🌱 Aprendiendo **React.js**, **TypeScript**, **APIs**, **Git** y mejores prácticas
-- 💬 Puedes preguntarme sobre **HTML**, **CSS**, **JavaScript**, **C**, **Python**
-- 💡 Interesado en desarrollo frontend y backend 
+- 🔭 Actualmente trabajando en proyectos web con **PHP**, **JavaScript**, **TypeScript**, **MySQL** y **React**
+- 🌱 Aprendiendo constantemente sobre **React.js**, **TypeScript**, **APIs REST**, **Git** y mejores prácticas de desarrollo
+- 💬 Puedes preguntarme sobre **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **MySQL**
+- 💡 Interesado en desarrollo frontend y backend, arquitectura de software y UX/UI
 - 🎯 Buscando colaborar en proyectos interesantes y desafiantes
 - 📧 Contáctame: **diego_esparza02@outlook.com**
 
 ---
-
-## 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-
-### Backend
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-
-### Bases de Datos
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-### Diseño y Herramientas
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-</div>
-
----
-
-## 🌟 Proyectos Destacados
-
-### 🏠 Inmobiliaria Crescendolls
-**Sitio web inmobiliario completo con catálogo de propiedades, sistema de favoritos y modo oscuro**
-
-- ✨ Características: Carrusel dinámico, sistema de favoritos, modo oscuro/claro, diseño responsive
-- 🛠️ Tecnologías: HTML5, CSS3, JavaScript, PHP, MySQL
-- 🔗 [Ver Repositorio](https://github.com/diegoesr/inmobiliaria-crescendolls)
-
----
-
-
 ## 🎯 Metas y Objetivos
 
+- [ ] Completar proyecto full stack con PHP y MySQL
 - [ ] Completar proyectos en React.js
 - [ ] Dominar el desarrollo de APIs REST
 - [ ] Contribuir a proyectos open source
 - [ ] Crear más proyectos full stack
 - [ ] Mejorar habilidades en diseño UI/UX
 - [ ] Aprender TypeScript y frameworks modernos
+- [ ] Implementar mejores prácticas de seguridad
 
 ---
-
-## 💬 Contáctame
-
-- 📧 **Email**: diego_esparza02@outlook.com
-- 💼 **LinkedIn**: [Diego Esparza Rodríguez](https://www.linkedin.com/in/esparza-rodríguez-diego-970a19210/)
-- 📱 **Instagram**: [@diego_vstheworld](https://instagram.com/diego_vstheworld)
-- 🐙 **GitHub**: [@diegoesr](https://github.com/diegoesr)
-
----
-
-</div>
 
