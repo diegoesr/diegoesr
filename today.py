@@ -24,6 +24,7 @@ ANCHO = 60          # caracteres por línea de la ficha
 COL_IZQ = 34        # ancho de la columna izquierda en las líneas de estadísticas
 CHAR_W = 8.8        # ancho de un carácter de Consolas a 16px
 LINE_H = 20
+ASCII_ALTO_MAX = 620  # px; si el retrato es más alto, se reduce su tamaño de fuente para que quepa
 
 TEMAS = {
     "dark_mode.svg": dict(bg="#161b22", text="#c9d1d9", key="#ffa657", value="#a5d6ff", cc="#616e7f"),
@@ -132,13 +133,31 @@ def lineas_ficha(s):
     ]
 
 
+def limpiar_ascii(texto):
+    """Quita filas vacías arriba/abajo y la sangría común a la izquierda."""
+    filas = [f.rstrip() for f in texto.replace("\r", "").split("\n")]
+    while filas and not filas[0]:
+        filas.pop(0)
+    while filas and not filas[-1]:
+        filas.pop()
+    sangria = min(len(f) - len(f.lstrip(" ")) for f in filas if f)
+    return [f[sangria:] for f in filas]
+
+
 def construir_svg(ascii_filas, ficha, t):
+    # El retrato se encoge (fuente más chica) si es más alto que ASCII_ALTO_MAX.
+    lh_a = min(LINE_H, ASCII_ALTO_MAX / len(ascii_filas))
+    escala = lh_a / LINE_H
     ascii_cols = max(len(f) for f in ascii_filas)
-    x_ficha = round(15 + ascii_cols * CHAR_W + 30)
+    alto_ascii = len(ascii_filas) * lh_a
+    alto_ficha = len(ficha) * LINE_H
+    contenido = max(alto_ascii, alto_ficha)
+
+    x_ficha = round(15 + ascii_cols * CHAR_W * escala + 30)
     ancho_svg = round(x_ficha + ANCHO * CHAR_W + 25)
-    filas = max(len(ascii_filas), len(ficha))
-    alto_svg = 30 + filas * LINE_H
-    y_ficha = 30 + (filas - len(ficha)) // 2 * LINE_H   # centra la ficha junto al retrato
+    alto_svg = round(contenido + 40)
+    y_ascii = 20 + (contenido - alto_ascii) / 2 + lh_a * 0.8   # ambos bloques centrados en vertical
+    y_ficha = round(20 + (contenido - alto_ficha) / 2 + 15)
 
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{ancho_svg}px" height="{alto_svg}px" '
@@ -149,10 +168,10 @@ def construir_svg(ascii_filas, ficha, t):
         "text, tspan {white-space: pre;}",
         "</style>",
         f'<rect width="{ancho_svg}px" height="{alto_svg}px" fill="{t["bg"]}" rx="15"/>',
-        f'<text x="15" y="30" fill="{t["text"]}">',
+        f'<text x="15" y="{y_ascii:.1f}" fill="{t["text"]}" font-size="{16 * escala:.2f}px">',
     ]
     for i, fila in enumerate(ascii_filas):
-        out.append(f'<tspan x="15" y="{30 + i * LINE_H}">{escape(fila)}</tspan>')
+        out.append(f'<tspan x="15" y="{y_ascii + i * lh_a:.1f}">{escape(fila)}</tspan>')
     out.append("</text>")
     out.append(f'<text x="{x_ficha}" y="{y_ficha}" fill="{t["text"]}">')
     for i, segmentos in enumerate(ficha):
@@ -167,7 +186,7 @@ def construir_svg(ascii_filas, ficha, t):
 def main():
     aqui = os.path.dirname(os.path.abspath(__file__))
     with open(os.path.join(aqui, "ascii.txt"), encoding="utf-8") as f:
-        ascii_filas = f.read().split("\n")
+        ascii_filas = limpiar_ascii(f.read())
     stats = github_stats()
     print("Stats:", stats)
     ficha = lineas_ficha(stats)
