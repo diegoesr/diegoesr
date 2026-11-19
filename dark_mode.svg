@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="630px" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<style>
+@font-face { font-family: ConsolasFallback; src: local('Consolas'); }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="630px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">           .`,;||l%lkHKKk%ljj!,'.</tspan>
+<tspan x="15" y="50">        .':|jlk%%kk%jljkH#HHkj;`..</tspan>
+<tspan x="15" y="70">      .`:|lkKkHK%kKKKHKKkllKHH#Kl:'..</tspan>
+<tspan x="15" y="90">     `,;|%KkkkKHHMMM@M##K|%HH#HKHK|`...</tspan>
+<tspan x="15" y="110">    .:!jkk%%KHKMMMM#H#MM#HHj%####HHk;.'.</tspan>
+<tspan x="15" y="130">   '!j%%j%ljK%#M#HkK##M@MH%ilk#######i '.</tspan>
+<tspan x="15" y="150">  '||kkk%j%%jHHKklk#M##@MMljHHH###HHHMl.'.</tspan>
+<tspan x="15" y="170">  !l%HKkKKKk%%i%lkK####M#Klj#M#H##KKHHM:``.</tspan>
+<tspan x="15" y="190">.'jk#HHHHHHHHk%H%K#KkHk%K%KkKH##HHHHHHM| `'.</tspan>
+<tspan x="15" y="210">'`lKK#######HH#H#M#KKkjliiK%kkH#HKH###Hjlli:</tspan>
+<tspan x="15" y="230">'`kHHHHH##H#H#####H#Hkjij!|i|l%H##K##HKHMHl;</tspan>
+<tspan x="15" y="250"> .kH#HHH##HH###HHKHMK%|!|!!i;||i%#M##KKHHK%|</tspan>
+<tspan x="15" y="270">` |#HH##HH####HHHKMHl!!|!!!!||!;;;ji!MK##H%|</tspan>
+<tspan x="15" y="290">`:.k#K####M##H###MKj!!!!!!!!;;;!i%ji;iiKMH%|</tspan>
+<tspan x="15" y="310">',` H#HH##Hklj%k%i;:;;;!!!!!!lk%%l|!|;!HMK%!</tspan>
+<tspan x="15" y="330">,;lkKHM#H##j!!:;!i%%%%l|!!!!il|!|!|i;;:%MKj;</tspan>
+<tspan x="15" y="350">:jHM@klK#M!:;!!jl%%jjji||!;;!!jK@l!j!;'%M%|,</tspan>
+<tspan x="15" y="370">';%#@;';:K!';||!||ill|ji||!;!!iii!!;;!'KHl;'</tspan>
+<tspan x="15" y="390">.`|KM#i:!!%':;|ikllH%!kiii;,!;;!!!!;;;'kk!`.</tspan>
+<tspan x="15" y="410"> .,iKM@j,!;|`,,;;!!!!i||i!.':!;;;;;;;!.l|`.</tspan>
+<tspan x="15" y="430">  .,ikM@k:'|!``'`:;!|||||,..':!!;!;;;;'|,.</tspan>
+<tspan x="15" y="450">   .`!%H@M%!!:;;;;;!!;!!!'..:::!;;;;;,``.</tspan>
+<tspan x="15" y="470">     ':ikHMMMk,!!!;;;;;!;,||!!;||;;;:``.</tspan>
+<tspan x="15" y="490">      .';jkKHH|;|!!!;;:`.!jj|||!!|!|;;:'.</tspan>
+<tspan x="15" y="510">       .':;ii!%l!||!!;:::,:!!||||||!!|;'.</tspan>
+<tspan x="15" y="530">      ..`:',!`|;iii|!!|i|!iiji|||!|;i|i;`.</tspan>
+<tspan x="15" y="550">     .`'|'`':k:`!;|ji|!!||ii||||||;||ii|:`'</tspan>
+<tspan x="15" y="570">     `:,;:!;i|!;;;;!iji|||||||i||!ij;j|!i|`.</tspan>
+<tspan x="15" y="590">   .'`;;:,!|;!!i|;|!!|iiiiijiiiiij|jj:|;%|:`</tspan>
+<tspan x="15" y="610">   `;:!ii:,`;`i|`,;iii|iiiijj|ij!!|l%::|i||!</tspan>
+</text>
+<text x="432" y="90" fill="#c9d1d9">
+<tspan x="432" y="90">diego@esparza -——————————————————————————————————————————-—-</tspan>
+<tspan x="432" y="110"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11</tspan></tspan>
+<tspan x="432" y="130"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">5 años, 6 meses, 21 días</tspan></tspan>
+<tspan x="432" y="150"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Facultad de Ingeniería, UNAM</tspan></tspan>
+<tspan x="432" y="170"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Desarrollador Web Full Stack</tspan></tspan>
+<tspan x="432" y="190"><tspan class="cc">. </tspan><tspan class="key">Lab</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">iOS Development Lab</tspan></tspan>
+<tspan x="432" y="210"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">VSCode, Xcode</tspan></tspan>
+<tspan x="432" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="432" y="250"><tspan class="cc">. </tspan><tspan class="key">Languages.Code</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">JavaScript, TypeScript, Python, Swift</tspan></tspan>
+<tspan x="432" y="270"><tspan class="cc">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, Tailwind, SQL</tspan></tspan>
+<tspan x="432" y="290"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Español, Inglés</tspan></tspan>
+<tspan x="432" y="310"><tspan class="cc">. </tspan></tspan>
+<tspan x="432" y="330"><tspan class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">React, Node.js, Bootstrap</tspan></tspan>
+<tspan x="432" y="350"><tspan class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">MySQL, PostgreSQL</tspan></tspan>
+<tspan x="432" y="370"></tspan>
+<tspan x="432" y="390">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="432" y="410"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">diego_esparza02@outlook.com</tspan></tspan>
+<tspan x="432" y="430"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">diego-esparza-rodriguez-970a19210</tspan></tspan>
+<tspan x="432" y="450"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">diego_vstheworld</tspan></tspan>
+<tspan x="432" y="470"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">portafolio2026-six.vercel.app</tspan></tspan>
+<tspan x="432" y="490"></tspan>
+<tspan x="432" y="510">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
+<tspan x="432" y="530"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">28</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">?</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">4</tspan></tspan>
+<tspan x="432" y="550"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">117</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">6</tspan></tspan>
+</text>
+</svg>
