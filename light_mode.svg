@@ -80,7 +80,7 @@ text, tspan {white-space: pre;}
 <text x="368" y="105" fill="#24292f">
 <tspan x="368" y="105">diego@esparza -——————————————————————————————————————————-—-</tspan>
 <tspan x="368" y="125"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11</tspan></tspan>
-<tspan x="368" y="145"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">5 años, 6 meses, 21 días</tspan></tspan>
+<tspan x="368" y="145"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">5 años, 6 meses, 22 días</tspan></tspan>
 <tspan x="368" y="165"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Facultad de Ingeniería, UNAM</tspan></tspan>
 <tspan x="368" y="185"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Desarrollador Web Full Stack</tspan></tspan>
 <tspan x="368" y="205"><tspan class="cc">. </tspan><tspan class="key">Lab</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">iOS Development Lab</tspan></tspan>
@@ -100,7 +100,7 @@ text, tspan {white-space: pre;}
 <tspan x="368" y="485"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">portafolio2026-six.vercel.app</tspan></tspan>
 <tspan x="368" y="505"></tspan>
 <tspan x="368" y="525">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
-<tspan x="368" y="545"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">28</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">?</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">4</tspan></tspan>
+<tspan x="368" y="545"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">28</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">4</tspan></tspan>
 <tspan x="368" y="565"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">119</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">6</tspan></tspan>
 </text>
 </svg>
